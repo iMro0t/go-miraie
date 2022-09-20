@@ -9,6 +9,21 @@
 <h4 align="center">Panasonic MirAIe Device Controls from Desktop System Tray Menu</h4>
 
 
+## Screenshot
+
+<img src="screenshots/1.png">
+
+## Supported Devices
+
+- AC
+
+## Features
+
+- Power On/Off
+- Set Temperature
+- Switch AC Modes (eg. Auto, Dry, Fan)
+- Control Fan Speed
+
 ## Install
 
 `go get github.com/iMro0t/go-miraie`
